@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="e-remove" transform="translate(0.75 0.75)">
+    <path d="M0 0L20 0L20 20L0 20L0 0Z" id="Rectangle" fill="none" stroke="none" />
+    <g id="Group" transform="translate(4.583333 4.583333)">
+      <path d="M11.6667 0L0 11.6667" id="Path" fill="none" stroke="#2A2A33" stroke-width="1.5" />
+      <path d="M11.6667 11.6667L0 0" id="Path" fill="none" stroke="#2A2A33" stroke-width="1.5" />
+    </g>
+  </g>
+</svg>

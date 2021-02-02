@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="book" transform="translate(0.75 0.75)">
+    <path d="M0 0L19.0476 0L19.0476 20L0 20L0 0Z" id="Rectangle" fill="none" stroke="none" />
+    <g id="Group" transform="translate(1.190476 2.083333)">
+      <path d="M0.396825 0L0.396825 14.1667" transform="translate(8.333333 1.666667)" id="Path" fill="none" stroke="#FFFFFF" stroke-width="1.5" />
+      <path d="M13.0952 0C10.7143 0 8.73016 1.08333 8.73016 2.5C8.73016 1.08333 6.74603 0 4.36508 0C1.98413 0 0 1.08333 0 2.5L0 16.6667C0 15.25 1.98413 14.1667 4.36508 14.1667C6.74603 14.1667 8.73016 15.25 8.73016 16.6667C8.73016 15.25 10.7143 14.1667 13.0952 14.1667C15.4762 14.1667 17.4603 15.25 17.4603 16.6667L17.4603 2.5C17.4603 1.08333 15.4762 0 13.0952 0Z" id="Path" fill="none" stroke="#FFFFFF" stroke-width="1.5" />
+    </g>
+  </g>
+</svg>
