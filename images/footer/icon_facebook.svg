@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="logo-facebook">
+    <path d="M0 0L24 0L24 24L0 24L0 0Z" id="Rectangle" fill="none" stroke="none" />
+    <g id="Group">
+      <path d="M22 0L2 0C0.895 0 0 0.895 0 2L0 22C0 23.105 0.895 24 2 24L13 24L13 15L10 15L10 11L13 11L13 8.413C13 5.313 14.893 3.625 17.659 3.625C18.984 3.625 20.122 3.724 20.454 3.768L20.454 7.008L18.536 7.009C17.032 7.009 16.741 7.724 16.741 8.772L16.741 11L21.181 11L20.181 15L16.741 15L16.741 24L22 24C23.105 24 24 23.105 24 22L24 2C24 0.895 23.105 0 22 0Z" id="Path" fill="#2A2A33" stroke="none" />
+    </g>
+  </g>
+</svg>
